@@ -1,0 +1,78 @@
+Unlocked stuff from level 4 lol
+
+MEALS
+Bread
+  +16 fullness
+  -15 coins
+ Egg
+  +16 fullness
+  +4 love
+  -17 coins
+ 
+ DRINKS
+ Water
+  +10 fullness
+  -10 coins
+ Tea
+  +12 fullness
+  +6 love
+  -17 coins
+Grape juice
+  +24 fullness
+  +12 love
+  -31 coins
+
+FRUITS
+  Green apple
+    +10 fullness
+    +2 love
+    -12 coins
+   Pear
+    +12 fullness
+    +2 love
+    -13 coins
+   Banana
+    +16 fullness
+    +2 love
+    -15 coins
+ 
+ VEGGIES
+  Carrot
+    +16 fullness
+    -15 coins
+   Eggplant
+    +30 fullness
+    +2 love
+    -23 coins
+ 
+ SUSHIS
+  California Roll
+    +6 fullness
+    +3 love
+    -10 coins
+   Cucumber Roll
+    +4 fullness
+    +4 love
+    -10 coins
+   Avocado Roll
+    +8 fullness
+    +2 love
+    -11 coins
+   Egg roll
+    +4 fullness
+    +5 love
+    -9 coins
+ 
+ SWEETS
+  Cookie
+    +6 fullness
+    +5 love
+    -12 coins
+   Chocolate bar
+    +10 fullness
+    +5 love
+    -12 coins
+   Candy cane
+    +10 fullness
+    +8 love
+    -15 coins
