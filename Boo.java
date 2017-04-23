@@ -11,6 +11,11 @@ public class Boo{
   /*APPEARANCE*/
   //paano sasabihin na yung default color ay blue :( sa GUI na ba to?
   
+  /*INVENTORY*/
+  ArrayList<Food> foodOwned = new ArrayList<Food>();
+  ArrayList<Medicine> medicineOwned = new ArrayList<Medicine>();
+  ArrayList<Toy> toysOwned = new ArrayList<Toy>();
+  
   public Boo{
     this.coins = 1000;
     this.level = 1;
@@ -28,6 +33,9 @@ public class Boo{
   
   public void eat(Food food){
     /*eating food increases fullness & level*/
+    this.fullness += food.getNutrients();
+    this.love += food.getLove();
+    this.coins -= food.getCost();
   }
   
   public void cleanBoo(){
